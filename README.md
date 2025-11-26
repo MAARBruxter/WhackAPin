@@ -39,24 +39,22 @@ All the scripts contain internal documentation for further understanding.
 
 Dependes on the difficulty selected:
 
+-Easy: Good Pins: 250, Bad Pins: 75
+-Normal: Good Pins: 500, Bad Pins: 250
+-Hard: Good Pins: 750, Bad Pins: 750
+
 ## Credits
 
 **Programming and Art**  
 Miguel Ángel Ávila Rosas
 
-**Resources**  
-- [Pixelfrogsstudio](https://assetstore.unity.com/publishers/44925)
-- [Karsiori](https://assetstore.unity.com/publishers/90197)
-- [NYKNCK](https://assetstore.unity.com/publishers/38584)
-
 **Music and SFX**  
-- Main Soundtrack: AI
-- Apple Sound Effect: Josh Mancell
+No copyright music on youtube.
 
 ## Play Now
 
 Play on **Itch.io**:  
-[Tiki Tuki on Itch.io](https://bruxter.itch.io/whack-a-pin)
+[Whack a Pin on Itch.io](https://bruxter.itch.io/whack-a-pin)
 
 ## Special Mentions
 Thanks to [Alberto Fernandez Idalgo](https://github.com/albertofernandezhid) for the README base of this project!
