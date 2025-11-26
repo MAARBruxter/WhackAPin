@@ -37,8 +37,7 @@ All the scripts contain internal documentation for further understanding.
 
 ## Scoring System
 
-- Each Apples gives 500 points to the player.
-- Each second in the timer gives 100 points to the player.  
+Dependes on the difficulty selected:
 
 ## Credits
 
