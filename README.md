@@ -52,6 +52,7 @@ Miguel Ángel Ávila Rosas
 No copyright music on youtube.
 
 ## Play Now
+**APK**:
 
 Play on **Itch.io**:  
 [Whack a Pin on Itch.io](https://bruxter.itch.io/whack-a-pin)
