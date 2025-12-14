@@ -59,4 +59,4 @@ Play on **Itch.io**:
 [Whack a Pin on Itch.io](https://bruxter.itch.io/whack-a-pin)
 
 ## Special Mentions
-Thanks to [Alberto Fernandez Idalgo](https://github.com/albertofernandezhid) for the README base of this project!
+Thanks to [Alberto Fernandez Hidalgo](https://github.com/albertofernandezhid) for the README base of this project!
